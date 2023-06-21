@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/mohdtalha506">
+    <a href="www.linkedin.com/in/mohdtalha506" target="_blank" alt="mohdtalha506">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 <!--     <a href="your-youtube-URL">
@@ -62,7 +62,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohdtalha506" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohdtalha506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohdtalha506" height="30" width="40" /></a>
 <!-- <a href="https://codesandbox.com/sharmacs8853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharmacs8853" height="30" width="40" /></a> -->
-<a href="https://instagram.com/mohdtalha506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jitendrasharma922" height="30" width="40" /></a>
+<a href="https://instagram.com/mohdtalha506" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdtalha506" height="30" width="40" /></a>
 </p>
 
 
